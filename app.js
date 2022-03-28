@@ -1,5 +1,5 @@
 
-let Role = prompt("user role");
+let role = prompt("user role");
 if (role == "admin") {
     console.log(101);
 }   
